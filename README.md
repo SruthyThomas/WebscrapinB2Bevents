@@ -4,7 +4,7 @@
 
 ## Overview
 
-This script creates a DataFrame using scraped data about various events, including their names, dates, website URLs, descriptions, and event types. The data is stored in lists and then explicitly assigned to columns of the DataFrame.
+B2B (Business-to-Business) events are specialized conferences, seminars, trade shows, and other gatherings where businesses interact directly with other businesses rather than with individual consumers. These events are pivotal in fostering professional relationships, exploring new business opportunities, and staying up-to-date with industry trends and innovations.This script creates a DataFrame using scraped data about various events, including their names, dates, website URLs, descriptions, and event types. The data is stored in lists and then explicitly assigned to columns of the DataFrame.
 
 ## Instructions
 
@@ -25,6 +25,7 @@ Open your terminal or command prompt, navigate to the directory where webscrapin
 
 
 Copy code
+
 python webscraping.py
 
 Output:
@@ -49,7 +50,6 @@ Event Name: The name of the event.
 
 Event Date(s): The dates when the event is scheduled to take place.
 
-Location (if applicable): The location where the event will be held.
 
 Website URL: The URL for the event's official website.
 
